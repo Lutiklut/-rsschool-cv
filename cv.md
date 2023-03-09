@@ -14,12 +14,12 @@
 
  VK: [ Lutsiya Ziganshina](http://vk.com/lutik_z).
 
- ## About me:
+## About me:
 
  I`m engineer-constructor. I worked in two companies. It wasn't my dream , so I quit. And now I want to be Frontend developer and I want to work remotely, because I wanted it more then 10 years.
 
  What aboum my qualities. I quickly adapt to the new company. I am punctual. I can do more tasks. I want to learn and hight me level skill in programming area. 
- ___
+___
 
 ## Skills:
 
@@ -29,7 +29,7 @@
  + Java Script (basic)
  + Python (basic)
  + Git/ GitHub
- ___
+___
 
 ## Code example:
  Example from Cata :
@@ -45,7 +45,9 @@
    for (let i=0; i<str.length;i++){
       if (str[i]==='a'||str[i]==='i'||str[i]==='e'||str[i]==='o'||str[i]==='u'){index++}
     }return index;}
-``` 
+
+```
+<br></br>
 ___
 
 ## Education
