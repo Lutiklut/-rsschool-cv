@@ -1,1 +1,1 @@
- https://lutiklut.github.io/rsschool-cv/cv
+ https://lutiklut.github.io/rsschool-cv/cv.html

@@ -30,6 +30,7 @@
  + Python (basic)
  + Git/ GitHub
  ___
+
 ## Code example:
  Example from Cata :
  `Return the number (count) of vowels in the given string.
@@ -44,8 +45,9 @@
    for (let i=0; i<str.length;i++){
       if (str[i]==='a'||str[i]==='i'||str[i]==='e'||str[i]==='o'||str[i]==='u'){index++}
     }return index;}
-```
+``` 
 ___
+
 ## Education
 1. [Ulyanovsk State Technical University](https://ulstu.ru/) \
 Faculty of Information Systems and Technologies \
@@ -54,15 +56,17 @@ Seciality: Instrumentation 2015.
 2. [Ulyanovsk State Technical University](https://ulstu.ru/) \
 Faculty of Information Systems and Technologies \
 Department "Measuring and Computing Complexes" \
-Magistracy: Instrumentation 2017.
+Magistracy: Instrumentation 2017.\
 ___
+
 ## Courses:
-1. [Coursera](https://www.coursera.org/account/accomplishments/verify/W5CCXJCTBX9T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) \
+1. [Coursera](https://www.coursera.org) \
 Systems thinking. \
-![Certificate](https://coursera.org/share/668c2ed7517317284892b3a36837cb2b)
+[Certificate](https://www.coursera.org/account/accomplishments/verify/W5CCXJCTBX9T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course) 
 2. Artificial Intelligence University \
-Data Sciense 2021.
+Data Sciense 2021.\
 ___
+
 ## Languages
 1. Russin
 2. English (A2-B1)
