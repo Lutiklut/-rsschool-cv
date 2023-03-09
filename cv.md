@@ -21,7 +21,7 @@
  What aboum my qualities. I quickly adapt to the new company. I am punctual. I can do more tasks. I want to learn and hight me level skill in programming area. 
  ___
 
- ## Skills:
+## Skills:
 
 
  + HTML
@@ -30,7 +30,7 @@
  + Python (basic)
  + Git/ GitHub
  ___
- ## Code example:
+## Code example:
  Example from Cata :
  `Return the number (count) of vowels in the given string.
 
@@ -56,8 +56,8 @@ Faculty of Information Systems and Technologies \
 Department "Measuring and Computing Complexes" \
 Magistracy: Instrumentation 2017.
 ___
-# Courses:
-1. [Coursera](https://www.coursera.org/ ) \
+## Courses:
+1. [Coursera](https://www.coursera.org/account/accomplishments/verify/W5CCXJCTBX9T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) \
 Systems thinking. \
 ![Certificate](https://coursera.org/share/668c2ed7517317284892b3a36837cb2b)
 2. Artificial Intelligence University \
