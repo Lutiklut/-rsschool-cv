@@ -59,7 +59,7 @@ ___
 # Courses:
 1. [Coursera](https://www.coursera.org/ ) \
 Systems thinking. \
-![Certificate](https://coursera.org/share/2fa2e82a2c1df9b60b60f381a335b7fa)
+![Certificate](https://coursera.org/share/668c2ed7517317284892b3a36837cb2b)
 2. Artificial Intelligence University \
 Data Sciense 2021.
 ___
