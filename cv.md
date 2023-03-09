@@ -1,6 +1,6 @@
 
 
-ya Ziganshina
+# Lutsiya Ziganshina
 ***
 ### Contact information:
  
@@ -38,12 +38,32 @@ ya Ziganshina
 
  The input string will only consist of lower case letters and/or spaces.
 
- ``` 
+ ```javascript
  function getCount(str) 
  {  let index=0;
    for (let i=0; i<str.length;i++){
       if (str[i]==='a'||str[i]==='i'||str[i]==='e'||str[i]==='o'||str[i]==='u'){index++}
-        } return index;}
-	  ```
-  ___
+    }return index;}
+```
+___
 ## Education
+1. [Ulyanovsk State Technical University](https://ulstu.ru/) \
+Faculty of Information Systems and Technologies \
+Department "Measuring and Computing Complexes" \
+Seciality: Instrumentation 2015.
+2. [Ulyanovsk State Technical University](https://ulstu.ru/) \
+Faculty of Information Systems and Technologies \
+Department "Measuring and Computing Complexes" \
+Magistracy: Instrumentation 2017.
+___
+# Courses:
+1. [Coursera](https://www.coursera.org/ ) \
+Systems thinking. \
+![Certificate](https://coursera.org/share/2fa2e82a2c1df9b60b60f381a335b7fa)
+2. Artificial Intelligence University \
+Data Sciense 2021.
+___
+## Languages
+1. Russin
+2. English (A2-B1)
+3. Tatar
